@@ -7,7 +7,7 @@
 ```javascript
 var satish = {
     pronouns: "He" | "Him",
-    code: ["Python", "C#", "TypeScript", "HTML/CSS", "Javascript", "Etc."],
+    code: ["GSAP", "Python", "TypeScript", "HTML/CSS", "Javascript", "Etc."],
     askMeAbout: ["Web Dev", "App Dev", "UI/UX", "Photoshop", "After Effects", "Reverend Insanity"],
     technologies: {
         frontEnd: {
