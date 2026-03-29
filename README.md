@@ -7,7 +7,7 @@
 var satish = {
     about: "Backend-focused developer experienced in Django, APIs, and workflow systems. Interested in building scalable systems and improving developer and user workflows, with a current focus on open-source contributions in content management systems and internationalization.",
     pronouns: "He/Him",
-    code: ["GSAP", "Python", "TypeScript", "HTML/CSS", "Javascript"],
+    code: ["GSAP", "Python", "TypeScript", "HTML/CSS", "JavaScript"],
     askMeAbout: ["Web Development", "Backend Systems", "UI/UX", "Internationalization", "Quant"],
     technologies: {
         frontEnd: {
