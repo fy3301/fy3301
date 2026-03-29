@@ -5,9 +5,10 @@
 
 ```javascript
 var satish = {
-    pronouns: "He" | "Him",
-    code: ["GSAP", "Python", "TypeScript", "HTML/CSS", "Javascript", "Etc."],
-    askMeAbout: ["Web Dev", "App Dev", "UI/UX", "Photoshop", "After Effects", "Reverend Insanity"],
+    about: "Backend-focused developer experienced in Django, APIs, and workflow systems. Interested in building scalable systems and improving developer and user workflows, with a current focus on open-source contributions in content management systems and internationalization.",
+    pronouns: "He/Him",
+    code: ["GSAP", "Python", "TypeScript", "HTML/CSS", "Javascript"],
+    askMeAbout: ["Web Development", "Backend Systems", "UI/UX", "Internationalization", "Quant"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -16,7 +17,7 @@ var satish = {
         },
         backEnd: {
             js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
+            python: ["Django", "Flask"],
         },
         mobileApp: {
             crossPlatform: ["Flutter"],
@@ -31,10 +32,20 @@ var satish = {
     },
 };
 ```
-<img width="2674" height="1505" alt="IMG_20250607_211701_817" src="https://github.com/user-attachments/assets/eec95b52-aa7b-40c3-8f0b-49b10bcb2b19" />
-
 ```javascript
 const featured_projects = [
+    {
+        name: "PlanWise – AI-Powered Plan Generator",
+        desc: "Generate, visualize, and track AI-generated personalized plans with React, GSAP & OpenRouter API"
+    },
+    {
+        name: "Dexterity: EventEye",
+        desc: "Full-stack event management app with Flask & PostgreSQL"
+    },
+    {
+        name: "Re:Draw",
+        desc: "Convert handwritten notes to digital text with Python & OpenCV"
+    },
     {
         name: "Expense Tracker",
         desc: "Manage finances with Python, SQL & Tkinter"
@@ -42,25 +53,11 @@ const featured_projects = [
     {
         name: "School Competition Website (IMAGE)",
         desc: "Responsive React/TypeScript site with animations"
-    },
-    {
-        name: "PlanWise – AI-Powered Plan Generator",
-        desc: "Generate, visualize, and track AI-generated personalized plans with React, GSAP & OpenRouter API"
-    },
-    {
-        name: "Re:Draw",
-        desc: "Convert handwritten notes to digital text with Python & OpenCV"
-    },
-    {
-
-        name: "Dexterity: EventEye",
-        desc: "Full-stack event management app with Flask & PostgreSQL"
-
     }
 ];
 ```
-[💰 Expense Tracker](https://github.com/shang3301/expense-tracker) | 
-[🖼 IMAGE Website](https://github.com/shang3301/image) | 
-[🧠 PlanWise](https://github.com/shang3301/planwise) | 
-[✏️ Re:Draw](https://github.com/shang3301/Re-Draw) | 
-[🎮 Dexterity: EventEye](https://github.com/shang3301/Dexterity) | 
+### Open Source
+- Hacktoberfest contributor (4 years), contributing across multiple repositories
+- Currently contributing to and exploring the Wagtail ecosystem
+
+[![An image of @gitsatishgarg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gitsatishgarg)](https://holopin.io/@gitsatishgarg)
