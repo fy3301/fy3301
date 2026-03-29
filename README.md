@@ -25,7 +25,7 @@ var satish = {
         databases: ["PostgreSQL", "MongoDB", "SQLite"],
     },
     funFacts: {
-        currentFocus: "Existing",
+        currentFocus: "Open Source",
         writing_systems_learned: 9,
         lore_behind_username: "Reference to Reverend Insanity & Cicada 3301",
         pfp_made_by: "Me"
