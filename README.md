@@ -32,8 +32,13 @@ var satish = {
     },
 };
 ```
+
 ```javascript
 const featured_projects = [
+    {
+        name: "Regime-Aware Reinforcement Learning for Optimal Trade Execution",
+        desc: "Empirical study of regime-conditioned reinforcement learning for optimal trade execution in simulated limit order book markets"
+    },
     {
         name: "PlanWise – AI-Powered Plan Generator",
         desc: "Generate, visualize, and track AI-generated personalized plans with React, GSAP & OpenRouter API"
