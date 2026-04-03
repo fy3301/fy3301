@@ -27,7 +27,7 @@ var satish = {
     funFacts: {
         currentFocus: "Open Source",
         writing_systems_learned: 9,
-        lore_behind_username: "Reference to Reverend Insanity & Cicada 3301",
+        lore_behind_username: "Reference to Reverend Insanity",
         pfp_made_by: "Me"
     },
 };
